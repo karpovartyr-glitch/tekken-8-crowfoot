@@ -190,4 +190,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*TEKKEN 8 · Updated 2026-11-24 · Shared under the MIT License*
+*TEKKEN 8 · Updated 2026-11-25 · Shared under the MIT License*
